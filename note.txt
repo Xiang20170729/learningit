@@ -20,4 +20,7 @@
 
  Engineered Hardwood Flooring  http://fgcfloor.auroratd.ca/engineered-hardwood-flooring/
 
- Ceramic Tile Floor Installation http://fgcfloor.auroratd.ca/ceramic-tile-floor-installation/
+ Ceramic Tile Flooring Installation http://fgcfloor.auroratd.ca/ceramic-tile-floor-installation/
+
+ Git is a distributed version control system.
+ Git is free software.
