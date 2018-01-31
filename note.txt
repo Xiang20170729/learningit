@@ -26,3 +26,5 @@
  Git is free software.
 
  test 2
+
+ test 3
